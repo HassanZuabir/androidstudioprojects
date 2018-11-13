@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ArrayListHashmapsetc/ArrayListHashmapsetc.iml" filepath="$PROJECT_DIR$/../ArrayListHashmapsetc/ArrayListHashmapsetc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Array_list_Hashmaps/Array_list_Hashmaps.iml" filepath="$PROJECT_DIR$/../Array_list_Hashmaps/Array_list_Hashmaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Loop/Loop.iml" filepath="$PROJECT_DIR$/../Loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MarksAndAttendance2.iml" filepath="$PROJECT_DIR$/MarksAndAttendance2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MarksandAttendance/MarksandAttendance.iml" filepath="$PROJECT_DIR$/../MarksandAttendance/MarksandAttendance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../androidstudioprojects.iml" filepath="$PROJECT_DIR$/../androidstudioprojects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../evenandodd/evenandodd.iml" filepath="$PROJECT_DIR$/../evenandodd/evenandodd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../grade/grade.iml" filepath="$PROJECT_DIR$/../grade/grade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../marksandgrade/marksandgrade.iml" filepath="$PROJECT_DIR$/../marksandgrade/marksandgrade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scanner/scanner.iml" filepath="$PROJECT_DIR$/../scanner/scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../switch/switch.iml" filepath="$PROJECT_DIR$/../switch/switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../welcome/welcome.iml" filepath="$PROJECT_DIR$/../welcome/welcome.iml" />
+    </modules>
+  </component>
+</project>

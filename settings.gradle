@@ -1,0 +1,1 @@
+include ':app', ':welcome', ':scanner', ':evenandodd', ':grade', ':switch', ':marksandgrade', ':MarksandAttendance', ':MarksAndAttendance2', ':Loop', ':Array_list_Hashmaps', ':ArrayListHashmapsetc', ':ConstructorGetterSetterPrectice', ':functionOverloading', ':PersonCallingFunction', ':Inheritnce'

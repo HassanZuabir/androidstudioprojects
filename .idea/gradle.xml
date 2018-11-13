@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ArrayListHashmapsetc" />
+            <option value="$PROJECT_DIR$/Array_list_Hashmaps" />
+            <option value="$PROJECT_DIR$/ConstructorGetterSetterPrectice" />
+            <option value="$PROJECT_DIR$/Inheritnce" />
+            <option value="$PROJECT_DIR$/Loop" />
+            <option value="$PROJECT_DIR$/MarksAndAttendance2" />
+            <option value="$PROJECT_DIR$/MarksandAttendance" />
+            <option value="$PROJECT_DIR$/PersonCallingFunction" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/evenandodd" />
+            <option value="$PROJECT_DIR$/functionOverloading" />
+            <option value="$PROJECT_DIR$/grade" />
+            <option value="$PROJECT_DIR$/marksandgrade" />
+            <option value="$PROJECT_DIR$/scanner" />
+            <option value="$PROJECT_DIR$/switch" />
+            <option value="$PROJECT_DIR$/welcome" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
